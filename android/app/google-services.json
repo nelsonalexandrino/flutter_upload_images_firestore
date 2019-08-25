@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449567526519",
+    "firebase_url": "https://easy-list-products-mz.firebaseio.com",
+    "project_id": "easy-list-products-mz",
+    "storage_bucket": "easy-list-products-mz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449567526519:android:c8cf768a0d39c577",
+        "android_client_info": {
+          "package_name": "com.example.uploading_images_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449567526519-pjv6gt0plfcrqtmfbvkoierd8jh43ll1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByWxWI94IKny0I4pRbNpWxyo7UCUtYZ7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449567526519-pjv6gt0plfcrqtmfbvkoierd8jh43ll1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
